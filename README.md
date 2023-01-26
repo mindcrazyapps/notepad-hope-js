@@ -1,6 +1,8 @@
 ## notepad-hope-js
 notepad++ syntax highlighting for hope.js
 
+## License
+Based on the  [mmdemirbas](github.com/mmdemirbas) syntax highlighting [Custom log file syntax highlighting for Notepad++](https://gist.github.com/mmdemirbas/3713724) language file for Notepad++.
 
 ## About NextExperience
 
